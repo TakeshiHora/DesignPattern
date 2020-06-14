@@ -1,3 +1,5 @@
+package Template;
+
 public class StringDisplay extends AbstractDisplay {
     
     private String string;

@@ -1,4 +1,6 @@
-public class CharDisplay extends AbstractDisplay{
+package Template;
+
+public class CharDisplay extends AbstractDisplay {
     
     private char ch;
     public CharDisplay(char ch){

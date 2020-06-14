@@ -1,3 +1,5 @@
+package Template;
+
 public class Main_Template {
     public static void main(String[] args){
         AbstractDisplay d1 = new CharDisplay('H');
