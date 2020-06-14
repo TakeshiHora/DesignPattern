@@ -1,5 +1,5 @@
-package idcard;
-import framework.*;
+package Factory.idcard;
+import Factory.framework.*;
 import java.util.*;
 import java.util.ArrayList;
 
